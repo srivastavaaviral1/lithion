@@ -349,7 +349,7 @@ http://www.templatemo.com/tm-509-hydro
 
   .home-info .section-btn:hover,
   .home-info .section-btn:focus {
-    background: #ce3232;
+    background: #ce3232 ;
     border-color: transparent;
     color: #ffffff;
   }
@@ -366,6 +366,10 @@ http://www.templatemo.com/tm-509-hydro
     display: block;
   }
 
+  #home .wrap {
+    padding: 0px;
+    margin:0px;
+  } 
 
 
   /*---------------------------------------
